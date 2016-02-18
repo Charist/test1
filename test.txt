@@ -1,4 +1,9 @@
 ok...mdy1sdf..
 123
+<<<<<<< ea28672598fcb045a053b15108dae92fa9643f55
 conflict1` a
 mdy at server at 15:32
+=======
+conflict1` ab
+mdy at client at 15:33
+>>>>>>> mdy at client at 15:35
