@@ -1,10 +1,10 @@
 txt1
 mdy at 15:03
-<<<<<<< HEAD
+
 3.11
-=======
-3.2
->>>>>>> 9b9e1b6... 3.2
+
+
+>>>>>>> 9b9e1b6157b4442d1fb21c8264588076e95ddcc8
 mdy at client at 15:18
 =======
 mdy at 15:08 at server
