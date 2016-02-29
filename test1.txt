@@ -1,6 +1,6 @@
 txt1
 mdy at 15:03
-<<<<<<< HEAD
+<<<<<<< HEAD server
 mdy at client at 15:18
 =======
 mdy at 15:08 at server
