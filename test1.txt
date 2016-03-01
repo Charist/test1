@@ -3,13 +3,8 @@ mdy at 15:03
 
 3.11
 
-
->>>>>>> 9b9e1b6157b4442d1fb21c8264588076e95ddcc8
 mdy at client at 15:18
-=======
+
 mdy at 15:08 at server
-
-
->>>>>>> 8c23b4d1618b401e2c83398325d890883d26a904
 
 dsf
